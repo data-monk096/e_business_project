@@ -1,0 +1,38 @@
+/* Styles for the main section */
+.container {
+    padding-top: 50px;
+}
+
+/* Styles for the jumbotron */
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+
+/* Styles for the card */
+.card {
+    margin-bottom: 30px;
+}
+
+/* Styles for the card image */
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+/* Styles for the card title */
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Styles for the card text */
+.card-text {
+    font-size: 16px;
+}
+
+/* Styles for the button */
+.btn {
+    font-size: 16px;
+}

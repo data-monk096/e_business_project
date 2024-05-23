@@ -1,0 +1,35 @@
+#registration-form {
+    max-width: 80%; 
+    margin: 0 auto; 
+    padding: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+#form-title{
+    text-align: center;
+    border: none;
+}
+
+#register-intro-text{
+    text-align:center;
+}
+.register-button {
+    text-align: right; 
+    width: 150px; 
+}
+
+.image-container {
+    text-align: center; 
+    margin-top: 20px; 
+}
+
+
+.img-fluid {
+    max-width: 100%; 
+    height: auto; 
+    max-height: 200px; 
+}
+
+.container{
+    margin-bottom:30px;
+}

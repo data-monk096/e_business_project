@@ -1,0 +1,21 @@
+.button-all {
+    font-size: 0.9em;
+}
+
+@media (max-width: 768px) {
+    .button-all {
+        display: inline;
+        font-size: inherit;
+        padding: 0;
+        border: none;
+        background: none;
+        color: inherit;
+        text-decoration: underline;
+    }
+}
+
+<?php if(isset($_SESSION['email_address'])): ?>
+    .button-all {
+        display: none;
+    }
+<?php endif; ?>

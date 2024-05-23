@@ -1,0 +1,20 @@
+body {
+    background-color: #e9f5fb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
+}
+
+.message-container {
+    text-align: center;
+    background-color: #d4edda; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+.btn {
+    margin-top: 20px;
+}
